@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-## Summary
+## Results
 
 ### Naive Random Oversampling
 
